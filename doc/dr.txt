@@ -1,5 +1,19 @@
 ex 04
 
-dr
+4/10
 
 SIO-2109-Z3
+
+(-2) 4.2 ?
+
+(-2) 4.3 ?
+
+4.4
+(-2) couleur rouge
+f = a *  ; ?
+
+4.5
+copié de quelqu'un ?
+  String sequence =
+      the12TimeTable(count);
+
